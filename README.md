@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I'm Manh 👨‍💻
 - 👨🏻‍💻 I'm studying at Ha Noi University Of Science And Technology.
-- 🔭 I'm an intership at R&D Unit, [Sun*](https://sun-asterisk.vn/) 🌱!
+- 🔭 I'm an intership at [R&D Unit, Sun*](https://sun-asterisk.vn/) 🌱!
 - 🌱 I’m currently learning everything 🤣
 - 💡 I love innovation and new technologies
 - 🥅 2020 Goals: Collect and share more knowledge with others
