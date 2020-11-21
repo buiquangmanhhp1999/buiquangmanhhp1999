@@ -13,7 +13,7 @@
 
 ### Framework
 
-* 🗣 Tensoflow | Keras | Pytorch
+* 🗣 Tensorflow | Keras | Pytorch
 * 🖇️ OpenCV | Pillow
 * 🛢️ MySQL
 * :octocat: Git | Github
