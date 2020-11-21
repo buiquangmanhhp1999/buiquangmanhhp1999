@@ -19,21 +19,13 @@
 * :octocat: Git | Github
 * 🌐 Fast Api
 
-### My Project
-
-[![My Website](https://img.shields.io/badge/-🧬%20My%20Website-fff?)](https://github.com/adamalston/v2)
-[![COVID-19 Dashboard](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-fff?)](https://github.com/adamalston/COVID-19-Dashboard)
-[![Summarizer](https://img.shields.io/badge/-📝%20Summarizer-fff?)](https://github.com/adamalston/Summarizer)
-[![Overwatch](https://img.shields.io/badge/-🔬%20Overwatch-fff?)](https://github.com/adamalston/overwatch)
-[![KubeSat](https://img.shields.io/badge/-🛰%20KubeSat-fff?)](https://github.com/adamalston/kubesat)
-[![Voice Poker](https://img.shields.io/badge/-🔊%20Voice%20Poker-fff?)](https://github.com/adamalston/Poker)
-[![PokémonGo Map](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-fff?)](https://github.com/adamalston/PokemonGo-Map)
-
-### Cybersecurity projects
+### Computer Vision Project
 [![Age, Gender, Smile Multitask Learning](https://img.shields.io/badge/-🛡%20Multitask%20Learning-fff?)](https://github.com/buiquangmanhhp1999/Age-Gender-Smile-Multitask-Learning)
-[![SYN Flood](https://img.shields.io/badge/-🌊%20SYN%20Flood-fff?)](https://github.com/adamalston/SYN-Flood)
-[![Packet Sniffing & Spoofing](https://img.shields.io/badge/-🗂%20Packet%20Sniffing%20&%20Spoofing-fff?)](https://github.com/adamalston/Packet-Sniffing-and-Spoofing)
-[![SQL Injection](https://img.shields.io/badge/-💉%20SQL%20Injection-fff?)](https://github.com/adamalston/SQL-Injection)
-[![Network Tools](https://img.shields.io/badge/-🌐%20Network%20Tools-fff?)](https://github.com/adamalston/Network-Tools)
+[![License Plate Recognition](https://img.shields.io/badge/-🌊%20License%20Plate%20Recognition-fff?)](https://github.com/buiquangmanhhp1999/License-Plate-Recognition/settings)
+[![Automatic Scoring by OpenCV and Deep Learning](https://img.shields.io/badge/-💉%20Automatic%20Scoring-fff?)](https://github.com/buiquangmanhhp1999/HRBot)
+[![EfficientNet Age, Gender Estimation](https://img.shields.io/badge/-🗂%20EfficientNet%20Age%20Gender%20Estimation-fff?)](https://github.com/buiquangmanhhp1999/age_gender_estimation)
+
+### NLP Project
+[![Viet Nam Identity Card Recognition](https://img.shields.io/badge/-📝%20Identity%20Card%20Recognition-fff?)](https://github.com/buiquangmanhhp1999/extract-information-from-identity-card)
 
 <a href="https://www.adamalston.com/"><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=buiquangmanhhp1999&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buiquangmanhhp1999&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
