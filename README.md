@@ -21,7 +21,7 @@
 
 ### Computer Vision Project
 [![Age, Gender, Smile Multitask Learning](https://img.shields.io/badge/-🛡%20Multitask%20Learning-fff?)](https://github.com/buiquangmanhhp1999/Age-Gender-Smile-Multitask-Learning)
-[![License Plate Recognition](https://img.shields.io/badge/-🌊%20License%20Plate%20Recognition-fff?)](https://github.com/buiquangmanhhp1999/License-Plate-Recognition/settings)
+[![License Plate Recognition](https://img.shields.io/badge/-🌊%20License%20Plate%20Recognition-fff?)](https://github.com/buiquangmanhhp1999/License-Plate-Recognition)
 [![Automatic Scoring by OpenCV and Deep Learning](https://img.shields.io/badge/-💉%20Automatic%20Scoring-fff?)](https://github.com/buiquangmanhhp1999/HRBot)
 [![EfficientNet Age, Gender Estimation](https://img.shields.io/badge/-🗂%20EfficientNet%20Age%20Gender%20Estimation-fff?)](https://github.com/buiquangmanhhp1999/age_gender_estimation)
 
