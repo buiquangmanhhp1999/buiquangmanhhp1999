@@ -15,7 +15,7 @@
 
 * 🗣 Tensoflow | Keras | Pytorch
 * 🖇️ OpenCV | Pillow
-* 🛢️ MySQL | SQLite 
+* 🛢️ MySQL
 * :octocat: Git | Github
 * 🌐 Fast Api
 
