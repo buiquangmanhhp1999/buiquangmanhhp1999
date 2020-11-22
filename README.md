@@ -6,6 +6,11 @@
 - 🥅 2020 Goals: Collect and share more knowledge with others
 - ⚡ Fun fact: I love gym and fishing
 
+<p align="left">
+<h3 align="left">Connect with me:</h3>
+<a href="https://viblo.asia/u/buiquangmanh" target="blank"><img align="center" src="https://user-images.githubusercontent.com/48142689/99890999-c31be080-2c97-11eb-9f73-e6b6bc3866a8.gif" height="30" width="40" /></a>
+<a href="https://github.com/buiquangmanhhp1999" target="blank"><img align="center" src="https://user-images.githubusercontent.com/48142689/99891123-13477280-2c99-11eb-8a5d-e79cb8896d28.gif" height="30" width="40" /></a>
+
 ### Languages
 [![Python](https://img.shields.io/badge/-Python-fff?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
 [![C](https://img.shields.io/badge/-C-fff?&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c)
