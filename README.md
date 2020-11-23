@@ -3,7 +3,7 @@
 - 🔭 I'm an intership at [team AI, R&D Unit, Sun* company](https://sun-asterisk.vn/) 🌱!
 - 🌱 I’m currently learning everything 🤣
 - 💡 I love innovation and new technologies
-- 🥅 2020 Goals: Collect and share more knowledge with others. Please see [my blog](https://viblo.asia/u/buiquangmanh) to see more.
+- 🥅 2020 Goals: Collect and share more knowledge with others. Please see [my blog](https://viblo.asia/u/buiquangmanh).
 - ⚡ Fun fact: I love gym and fishing
 
 <p align="left">
