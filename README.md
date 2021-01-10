@@ -1,5 +1,3 @@
-<IFRAME src="http://www.informatik.uni-leipzig.de/~duc/amlich/JavaScript/current_month.html" align="right" name="CurentMonth" width="188" height="228" scrolling="no" frameborder=0>
-</IFRAME>
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I'm Manh 👨‍💻
 - 👨🏻‍💻 I'm studying at Ha Noi University Of Science And Technology.
 - 🔭 I'm an intership at [team AI, R&D Unit, Sun* company](https://sun-asterisk.vn/) 🌱!
