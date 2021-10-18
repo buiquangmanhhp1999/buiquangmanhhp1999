@@ -21,7 +21,7 @@
 * 🖇️ OpenCV | Pillow
 * 🛢️ MySQL
 * :octocat: Git | Github
-* 🌐 Fast Api
+* 🌐 Fast Api | BentoML | Docker
 
 ### Computer Vision Project
 [![Age, Gender, Smile Multitask Learning](https://img.shields.io/badge/-🛡%20Multitask%20Learning-fff?)](https://github.com/buiquangmanhhp1999/Age-Gender-Smile-Multitask-Learning)
