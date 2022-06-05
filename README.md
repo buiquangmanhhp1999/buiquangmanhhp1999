@@ -1,6 +1,6 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I'm Manh 👨‍💻
+# Hi, I'm Manh. Here's a bit about myself 
 - 👨🏻‍💻 I'm studying at Ha Noi University Of Science And Technology.
-- 🔭 I'm working at [AI Research Team, R&D Unit, Sun* Inc](https://sun-asterisk.vn/) 🌱!
+- 🔭 I'm working at [AI Research Team, R&D Unit, Sun* Inc](https://sun-asterisk.vn/) as Machine Learning Engineer 🌱!
 - 💡 I love innovation and new technologies
 - 🥅 2020 Goals: Collect and share more knowledge with others. Please see [my blog](https://viblo.asia/u/buiquangmanh).
 - ⚡ Fun fact: I love gym and fishing
